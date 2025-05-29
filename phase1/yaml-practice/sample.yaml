@@ -1,0 +1,17 @@
+#This is my first yaml file 
+
+name: cena
+role: DevOps Engineer
+
+Skills:
+    - Github
+    - Github
+    - Docker
+    - Kubernetes
+
+tools:
+   cicd: Github Actions
+   Cloud: GCP
+
+experience: 2
+available: true
